@@ -1,2 +1,2 @@
-# git
+# Github
 Prmera clase con git
